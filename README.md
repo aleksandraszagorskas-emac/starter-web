@@ -16,6 +16,8 @@ Some sample text
 
 ## How To Contribute
 
+Please fork
+
 ## Copyright
 
 Copyright notice
