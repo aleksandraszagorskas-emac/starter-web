@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 Simple starter project to learn git and github
+adding a line 
 
 ## Introduction
 
@@ -16,7 +17,7 @@ Some sample text
 
 ## How To Contribute
 
-Please fork
+Please fork 
 
 ## Copyright
 
