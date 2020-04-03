@@ -9,6 +9,7 @@
 
     Thanks to evryone
     Some extra info
+    some changes to stash
 
 # TECHNOLOGY COLOPHON
 
