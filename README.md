@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 Simple starter project to learn git and github
-adding a line 
-adding another line after rebase
+updating imidiate fix line
 
 ## Introduction
 
