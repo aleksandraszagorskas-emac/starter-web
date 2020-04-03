@@ -15,3 +15,7 @@ Main purpose is to learn
 Some sample text
 
 ## How To Contribute
+
+## Copyright
+
+Copyright notice
