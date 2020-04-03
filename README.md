@@ -22,4 +22,4 @@ Please fork
 
 ## Copyright
 
-Copyright notice
+Copyright notice. All rights yadayada
